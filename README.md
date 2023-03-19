@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 👋, I'm Hakan.
+### I'm a frontend developer from Turkey.
+
+## 👩👨Social
+
+
+## ✨My Projects
+### I put the term "Featured Projects🚀" that are more important and worthier to review than others. If you don't have much time, you can look them directly!
 
 <!--
 **HKavci/HKavci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
