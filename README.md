@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Hakan.<br>I'm a frontend developer from Turkey.<br>I have been developing frontend apps using HTML, CSS, Javascript, Typescript, React, Redux, Bootstrap, Tailwind, MUI etc.<br>, but I'm always adding new skills to my repertoire. I'm planning to learn about backend development as soon as possible.
+Hi, I'm Hakan.<br>I'm a frontend developer from Turkey.<br>I'm developing frontend apps using HTML, CSS, Javascript, Typescript, React, Redux, Bootstrap, Tailwind, MUI etc.<br>, but I'm always adding new skills to my repertoire. I'm planning to learn about backend development as soon as possible.
 
 
 # 🌐 Socials:
